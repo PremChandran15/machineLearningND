@@ -1,2 +1,3 @@
 # machineLearningND
-Repo for Udacity Machine Learning Nanodegree
+
+Prem Chandran's Repo for Udacity Machine Learning Nanodegree. Please feel free to browse and find some projects here.
